@@ -1,10 +1,10 @@
-<p align="center"><a href="https://dex.sifchain.finance" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Sifchain/.github/main/assets/Sifchain%20Logo.svg"/>
+<p align="center"><a href="https://dex.akhira.io" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/AkhiraChain/.github/main/assets/logo.svg"/>
 </a></p>
 <p align="center">
 ⚡️ <b>T H E &nbsp;&nbsp; O M N I C H A I N &nbsp;&nbsp; D E X</b> ⚡️
 </p>
 <p align="center">⚖️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dex.sifchain.finance"><u>dex.sifchain.finance</u></a>
+  <a href="https://dex.akhira.io"><u>dex.akhira.io</u></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚖
 </p>
 <hr>
@@ -12,12 +12,12 @@
 
 ## ✨ Repositories
 
-### ⛓ [Sifnode & Peggy](https://github.com/Sifchain/sifnode) 
-_Sifchain's novel liquidity protocol & EVM bridge, built with the [CosmosSDK](https://github.com/cosmos/cosmos-sdk)._
+### ⛓ [AkhiraNode & Al-Jabaal](https://github.com/AkhiraChain/akhiranode) 
+_AkhiraChains's novel liquidity protocol & EVM bridge, built with the [CosmosSDK](https://github.com/cosmos/cosmos-sdk)._
 
 
-### 🖼 [Frontend](https://github.com/Sifchain/sifchain-ui) 
-_Sifchain's User Interface & upcoming Frontend SDK_
+### 🖼 [Frontend](https://github.com/AkhiraChain/akhira-ui) 
+_AkhiraChain's User Interface & upcoming Frontend SDK_
 
-### 📖 [Documentation (General)](https://docs.sifchain.finance/)
-_Learn about how to use Sifchain and how it works._
+### 📖 [Documentation (General)](https://docs.akhira.io/)
+_Learn about how to use AkhiraChain and how it works._
